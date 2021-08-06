@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="47355" started-at="2021-07-28T03:47:37 IST" finished-at="2021-07-28T03:48:24 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="47355" started-at="2021-07-28T03:47:37 IST" finished-at="2021-07-28T03:48:24 IST">
+      <class name="com.myit.Web_Test.TestA">
+        <test-method status="PASS" signature="launchBrowser()[pri:0, instance:com.myit.Web_Test.TestA@6c7a164b]" name="launchBrowser" is-config="true" duration-ms="2830" started-at="2021-07-28T03:47:37 IST" finished-at="2021-07-28T03:47:40 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method status="PASS" signature="register()[pri:2, instance:com.myit.Web_Test.TestA@6c7a164b]" name="register" duration-ms="11632" started-at="2021-07-28T03:47:40 IST" finished-at="2021-07-28T03:47:51 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- register -->
+        <test-method status="PASS" signature="logout()[pri:3, instance:com.myit.Web_Test.TestA@6c7a164b]" name="logout" duration-ms="6488" started-at="2021-07-28T03:47:51 IST" finished-at="2021-07-28T03:47:58 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method status="PASS" signature="login()[pri:4, instance:com.myit.Web_Test.TestA@6c7a164b]" name="login" duration-ms="6759" started-at="2021-07-28T03:47:58 IST" finished-at="2021-07-28T03:48:05 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="buyItem()[pri:5, instance:com.myit.Web_Test.TestA@6c7a164b]" name="buyItem" duration-ms="16498" started-at="2021-07-28T03:48:05 IST" finished-at="2021-07-28T03:48:21 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- buyItem -->
+        <test-method status="PASS" signature="terminateBrowser()[pri:0, instance:com.myit.Web_Test.TestA@6c7a164b]" name="terminateBrowser" is-config="true" duration-ms="3090" started-at="2021-07-28T03:48:21 IST" finished-at="2021-07-28T03:48:24 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- terminateBrowser -->
+      </class> <!-- com.myit.Web_Test.TestA -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
